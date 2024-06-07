@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Lu Dev Quest 😁
+## Olá, pessoal! 😁
 
  <div>
    <a href="https://github.com/Ludevquest">
